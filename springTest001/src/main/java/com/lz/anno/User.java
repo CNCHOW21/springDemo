@@ -6,8 +6,6 @@ import org.springframework.stereotype.Component;
 public class User {
     
     private String name;
-    
-    private String sex;
 
     public String getName() {
         return name;
@@ -17,11 +15,4 @@ public class User {
         this.name = name;
     }
 
-    public String getSex() {
-        return sex;
-    }
-
-    public void setSex(String sex) {
-        this.sex = sex;
-    }
 }
