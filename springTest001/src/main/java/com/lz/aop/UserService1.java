@@ -1,5 +1,6 @@
-package com.lz;
+package com.lz.aop;
 
+import com.lz.anno.OrderService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 

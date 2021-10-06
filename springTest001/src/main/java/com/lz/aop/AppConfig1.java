@@ -1,4 +1,4 @@
-package com.lz;
+package com.lz.aop;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;

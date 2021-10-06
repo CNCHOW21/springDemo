@@ -1,13 +1,6 @@
-package com.lz;
+package com.lz.anno;
 
-import com.lz.AppConfig;
-import com.lz.UserService;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-import org.springframework.context.support.ClassPathXmlApplicationContext;
-import org.springframework.core.annotation.AnnotationConfigurationException;
-
-import java.lang.reflect.Field;
 
 public class Test {
     public static void main(String[] args) {

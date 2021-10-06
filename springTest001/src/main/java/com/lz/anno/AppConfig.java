@@ -1,9 +1,7 @@
-package com.lz;
+package com.lz.anno;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
-import org.springframework.core.annotation.AnnotationConfigurationException;
-import org.springframework.stereotype.Component;
 
 @ComponentScan("com.lz")
 public class AppConfig {

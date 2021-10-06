@@ -1,4 +1,4 @@
-package com.lz;
+package com.lz.anno;
 
 import org.springframework.beans.factory.InitializingBean;
 import org.springframework.beans.factory.annotation.Autowired;
