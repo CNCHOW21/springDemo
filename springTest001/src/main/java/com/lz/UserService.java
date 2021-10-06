@@ -24,10 +24,7 @@ public class UserService implements InitializingBean {
         System.out.println("有参构造方法1");
     }
 
-//    @Autowired
-//    public UserService(OrderService orderService1,OrderService orderService){
-//        System.out.println("有参构造方法2");
-//    }
+
 
     public void test(){
         System.out.println(admin);
