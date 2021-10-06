@@ -8,8 +8,8 @@ public class Test {
 //        ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("spring.xml");
         UserService userService = (UserService) context.getBean("userService");
         userService.getUser();
-        
-        
+
+
 //        System.out.println(context.getBean("orderService"));
 //        System.out.println(context.getBean("orderService1"));
 //        System.out.println(context.getBean("orderService2"));
