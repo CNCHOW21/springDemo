@@ -4,7 +4,9 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class User {
+    
     private String name;
+    
     private String sex;
 
     public String getName() {
