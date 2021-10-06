@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 public class User {
     private String name;
     private String sex;
-
+    private String weight;
 
     public String getName() {
         return name;
